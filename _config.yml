@@ -1,0 +1,19 @@
+theme: jekyll-theme-cayman
+
+# Site settings
+title: BenleAnalytics
+description: >
+  Welcome to my GitHub portfolio! I am a Data Scientist and IT professional passionate about data analytics, machine learning, and visualization.
+
+# Social links
+github:
+  username: Neerson
+linkedin:
+  url: https://www.linkedin.com/in/nelson-benle-a1961921b
+email: nelsonbenle101@gmail.com
+
+# Additional settings
+show_downloads: true
+
+# Profile Image
+# logo: /Neerson/profile.jpg
