@@ -3,6 +3,11 @@
 ## 🚀 About Me
 I'm **Nelson Ezumia Benle**, a Data Scientist and IT professional with experience in IT support, machine learning, data visualization, and SQL. I am passionate about leveraging data to drive insights and build impactful solutions.
 
+## 🎓 Education
+- **Higher National Diploma (HND) in [Your Field]** – Koforidua Technical University
+- **Certification in Data Science** – ALX Ghana
+
+
 ## 🔥 What I Do
 - 📊 **Data Analysis**: Using Python (Pandas, NumPy, Matplotlib, Seaborn) & SQL to explore and analyze data.
 - 🤖 **Machine Learning**: Building models with Scikit-learn and TensorFlow.
